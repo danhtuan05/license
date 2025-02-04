@@ -2,6 +2,12 @@
     "valid_keys": [
         {"key": "ABC123-XYZ789", "hwid": "e467ef10340c383ad30a82a5ef3ed5f41d42615e0bd982400cafb91f509e43e4"},
         {"key": "DEF456-GHI012", "hwid": ""},
-        {"key": "JKL789-MNO345", "hwid": ""}
+        {"key": "JKL789-MNO345", "hwid": ""},
+        {"key": "PQR678-STU901", "hwid": ""},
+        {"key": "VWX234-YZA567", "hwid": ""},
+        {"key": "BCD890-EFG123", "hwid": ""},
+        {"key": "HIJ456-KLM789", "hwid": ""},
+        {"key": "NOP012-QRS345", "hwid": ""},
+        {"key": "TUV678-WXY901", "hwid": ""}
     ]
 }
