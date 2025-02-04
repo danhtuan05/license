@@ -1,7 +1,7 @@
 {
     "valid_keys": [
-        "ABC123-XYZ789",
-        "DEF456-GHI012",
-        "JKL789-MNO345"
+        {"key": "ABC123-XYZ789", "hwid": ""},
+        {"key": "DEF456-GHI012", "hwid": ""},
+        {"key": "JKL789-MNO345", "hwid": ""}
     ]
 }
