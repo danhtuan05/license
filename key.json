@@ -1,6 +1,6 @@
 {
     "valid_keys": [
-        {"key": "ABC123-XYZ789", "hwid": "e467ef10340c383ad30a82a5ef3ed5f41d42615e0bd982400cafb91f509e43e4"},
+        {"key": "ABC123-XYZ789", "hwid": ""},
         {"key": "DEF456-GHI012", "hwid": ""},
         {"key": "JKL789-MNO345", "hwid": ""}
     ]
