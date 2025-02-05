@@ -1,40 +1,8 @@
 {
     "valid_keys": [
         {
-            "key": "",
-            "hwid": "e467ef10340c383ad30a82a5ef3ed5f41d42615e0bd982400cafb91f509e43e4"
-        },
-        {
-            "key": "DEF456-GHI012",
-            "hwid": "bdff8af7406fb5def7ad435b272eedc6a61b7f96e6e4e4cf93ed0f1793f64e6d"
-        },
-        {
             "key": "JKL789-MNO345",
             "hwid": "abc"
-        },
-        {
-            "key": "PQR678-STU901",
-            "hwid": ""
-        },
-        {
-            "key": "VWX234-YZA567",
-            "hwid": ""
-        },
-        {
-            "key": "BCD890-EFG123",
-            "hwid": ""
-        },
-        {
-            "key": "HIJ456-KLM789",
-            "hwid": ""
-        },
-        {
-            "key": "NOP012-QRS345",
-            "hwid": ""
-        },
-        {
-            "key": "TUV678-WXY901",
-            "hwid": ""
         }
     ]
 }
