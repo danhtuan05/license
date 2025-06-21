@@ -391,6 +391,10 @@
         {
             "key": "9A848E-ED61E4",
             "hwid": "18.183.1.94:4001:tuantu01:abc123"
+        },
+        {
+            "key": "C212F9-3C68C7",
+            "hwid": "6b3e2c456baf630d40f11df6ecb091284a26ff76538a90c1f61067b1a9bece03"
         }
     ]
 }
